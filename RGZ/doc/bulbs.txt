@@ -1,0 +1,5 @@
+0 On 1 Philips 0 5 1800 1 2 Yes
+1 Off 0 Osram 0 15 3000 2 1 Yes No 0 118054
+1 Off 1 Gauss 24 10 4000 3 0 Yes Yes 1 AC125E
+1 On 1 Feron 84 20 4600 4 1 Yes 1 118038
+0 Off 1 Jazzway 0 25 1000 0 2 Yes
